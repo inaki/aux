@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/inaki/aux/static/css/main.74ec2f6c.css",
+    "main.js": "/inaki/aux/static/js/main.ae96c88d.js",
+    "static/js/787.c4a5d50c.chunk.js": "/inaki/aux/static/js/787.c4a5d50c.chunk.js",
+    "static/media/video.mp4": "/inaki/aux/static/media/video.ea14ce32f4a91bbfa8fb.mp4",
+    "index.html": "/inaki/aux/index.html",
+    "main.74ec2f6c.css.map": "/inaki/aux/static/css/main.74ec2f6c.css.map",
+    "main.ae96c88d.js.map": "/inaki/aux/static/js/main.ae96c88d.js.map",
+    "787.c4a5d50c.chunk.js.map": "/inaki/aux/static/js/787.c4a5d50c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ec2f6c.css",
+    "static/js/main.ae96c88d.js"
+  ]
+}
